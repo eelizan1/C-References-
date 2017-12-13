@@ -14,8 +14,8 @@ namespace Chapter6
             // ForEach
             char[] message = { 'H', 'E', 'L', 'L', 'O' };
 
-            foreach (char i in message)
-                Console.Write(i);
+            foreach (char j in message)
+                Console.Write(j);
 
             // while loop
             int counter = 5;
